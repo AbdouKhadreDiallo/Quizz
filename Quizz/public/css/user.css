@@ -1,0 +1,211 @@
+.inscription-container {
+    width: 85%;
+    height: 600px;
+    background-color: white;
+    position: relative;
+    left: 7%;
+    top: 1%;
+    border-radius: 10px;
+}
+
+.inscription-header {
+    width: 70%;
+    height: 60px;
+}
+
+.inscription-header>span {
+    margin-left: 30px;
+}
+
+#inscription {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: #818181;
+    text-transform: uppercase;
+}
+
+hr {
+    width: 70%;
+    position: relative;
+    right: 14.9%;
+    top: 5px;
+}
+
+.form-container {
+    float: left;
+    width: 70%;
+    height: 300px;
+    /* background-color: blue; */
+}
+
+.input-form-user {
+    margin-left: 30px;
+}
+
+.form-control-user {
+    width: 60%;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding: 5px;
+    margin-top: 7px;
+    -moz-box-shadow: inset 0 0 5px silver;
+    -webkit-box-shadow: inset 0 0 5px silver;
+    box-shadow: inset 0 0 5px silver;
+    color: #818181;
+}
+
+.form-control-user:focus {
+    border-color: #3addd6;
+}
+
+.parent-div-admin {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    left: 30.5%;
+    top: 10px;
+}
+
+.parent-div input[type=file] {
+    left: 0;
+    top: 0;
+    opacity: 0;
+    position: absolute;
+    font-size: 90px;
+}
+
+#labell {
+    position: relative;
+    left: 30px;
+    top: -5px;
+}
+
+label,
+#labell {
+    color: #818181;
+}
+
+.btn-upload {
+    background-color: #3addd6;
+    border: 1px solid #3addd6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.btn-form-user {
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid #3addd6;
+    padding: 10px;
+    color: white;
+    background-color: #3addd6;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 15%;
+}
+
+.user-avatar-container {
+    border-radius: 50%;
+    width: 270px;
+    height: 270px;
+    border: 2px solid #3addd6;
+    background-color: white;
+    float: right;
+    position: relative;
+    top: -20px;
+    right: 80px;
+}
+
+.user-avatar {
+    border-radius: 50%;
+    width: 260px;
+    height: 260px;
+    border: 1px solid white;
+    position: relative;
+    top: 4px;
+    left: 4px;
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 479px) {
+    .user-avatar-container {
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        border: 2px solid #3addd6;
+        background-color: white;
+        float: right;
+        position: relative;
+        top: 10px;
+        right: 40px;
+    }
+    .user-avatar {
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+        border: 1px solid red;
+        position: relative;
+        top: 4px;
+        left: 4px;
+        background-image: url();
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .btn-upload {
+        background-color: #3addd6;
+        border: 1px solid #3addd6;
+        color: white;
+        padding: 3px 8px;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .btn-form-user {
+        margin-top: 20px;
+        border-radius: 5px;
+        border: 1px solid #3addd6;
+        padding: 5px;
+        color: white;
+        background-color: #3addd6;
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 15%;
+    }
+    .form-control-user {
+        width: 60%;
+        height: 20px;
+        border-radius: 5px;
+        border: 1px solid silver;
+        padding: 5px;
+        margin-top: 7px;
+        -moz-box-shadow: inset 0 0 5px silver;
+        -webkit-box-shadow: inset 0 0 5px silver;
+        box-shadow: inset 0 0 5px silver;
+        color: #818181;
+    }
+    .error-form {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .user-avatar-container {
+        display: none;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        border: 2px solid #3addd6;
+        background-color: white;
+        float: right;
+        position: relative;
+        top: 10px;
+        right: 40px;
+    }
+}

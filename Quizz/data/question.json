@@ -1,0 +1,522 @@
+[
+    {
+        "libelle": "quels sont les la,guages de programations ?",
+        "score": "3",
+        "type": "multiple",
+        "reponsePossible": [
+            "C",
+            "Anglais",
+            "PHP"
+        ],
+        "bonneReponse": [
+            "C",
+            "PHP"
+        ]
+    },
+    {
+        "libelle": "Pays d'o\u00f9 provient le coronavirus ?",
+        "score": "6",
+        "type": "simple",
+        "reponsePossible": [
+            "Senegal",
+            "Chine",
+            "Italie"
+        ],
+        "bonneReponse": "Chine"
+    },
+    {
+        "libelle": "Que signifie HTML ?",
+        "score": "5",
+        "type": "text",
+        "reponsePossible": [
+            "Hyper Text Makeup Language."
+        ],
+        "bonneReponse": "Hyper Text Makeup Language."
+    },
+    {
+        "libelle": "Quels sont les languages de programmations ?",
+        "score": "3",
+        "type": "multiple",
+        "reponsePossible": [
+            "Anglais",
+            "C",
+            "HTML",
+            "PHP"
+        ],
+        "bonneReponse": [
+            "C",
+            "PHP"
+        ]
+    },
+    {
+        "libelle": "Qui a organis\u00e9 la coupe du monde 2010 ?",
+        "score": "2",
+        "type": "simple",
+        "reponsePossible": [
+            "Brazil",
+            "Afrique du SUD",
+            "Qatar"
+        ],
+        "bonneReponse": "Afrique du SUD"
+    },
+    {
+        "libelle": "Les regions du S\u00e9n\u00e9gal ?",
+        "score": "3",
+        "type": "multiple",
+        "reponsePossible": [
+            "Matam",
+            "Podor",
+            "Pikine",
+            "Kedougou"
+        ],
+        "bonneReponse": [
+            "Matam",
+            "Kedougou"
+        ]
+    },
+    {
+        "libelle": "Qui a d\u00e9couvert les Etats unis ?",
+        "score": "4",
+        "type": "text",
+        "reponsePossible": [
+            "Christophe Colomb"
+        ],
+        "bonneReponse": "christophe colomb"
+    },
+    {
+        "libelle": "Les languages du web ?",
+        "score": "4",
+        "type": "multiple",
+        "reponsePossible": [
+            "java",
+            "PHP",
+            "javascript",
+            "R"
+        ],
+        "bonneReponse": [
+            "PHP",
+            "javascript"
+        ]
+    },
+    {
+        "libelle": "le president du senegal",
+        "score": "3",
+        "type": "simple",
+        "reponsePossible": [
+            "wade",
+            "Senghor",
+            "Sall"
+        ],
+        "bonneReponse": "Sall"
+    },
+    {
+        "libelle": "Qui est le presidet du senegal ?",
+        "score": "11",
+        "type": "text",
+        "reponsePossible": [
+            "Macky Sall"
+        ],
+        "bonneReponse": "macky sall"
+    },
+    {
+        "libelle": "Python est un langage _______?",
+        "score": "5",
+        "type": "multiple",
+        "reponsePossible": [
+            "interpret\u00e9",
+            "machine",
+            "compil\u00e9",
+            "binaire"
+        ],
+        "bonneReponse": [
+            "interpret\u00e9"
+        ]
+    },
+    {
+        "libelle": "Laquelle des fonctions suivantes convertit un \u00ab string \u00bb en \u00ab float \u00bb en python?",
+        "score": "3",
+        "type": "simple",
+        "reponsePossible": [
+            "str(x)",
+            "float(x)",
+            "long(x,[,base])"
+        ],
+        "bonneReponse": "float(x)"
+    },
+    {
+        "libelle": "En Python Laquelle des fonctions suivantes renvoie le plus petit caract\u00e8re de la cha\u00eene str?",
+        "score": "5",
+        "type": "simple",
+        "reponsePossible": [
+            "lower()",
+            "lstrip()",
+            "upper(str)",
+            "min(str)"
+        ],
+        "bonneReponse": "min(str)"
+    },
+    {
+        "libelle": "En PHP Comment sont r\u00e9cup\u00e9r\u00e9es dans la page d'arriv\u00e9e les variables pass\u00e9es par l'URL ?",
+        "score": "3",
+        "type": "simple",
+        "reponsePossible": [
+            "$_GET['nom_de_variable']",
+            "$_GET[$nom_de_variable]  ",
+            "$_GET('nom_de_variable)"
+        ],
+        "bonneReponse": "$_GET['nom_de_variable']"
+    },
+    {
+        "libelle": "Pour donner \u00e0 l'internaute la possibilit\u00e9 de choisir une seule case \u00e0 cocher parmi plusieurs on utilise ?",
+        "score": "2",
+        "type": "simple",
+        "reponsePossible": [
+            "Les cases \u00e0 cocher normales ",
+            " Des boites de dioalogues sp\u00e9ciales",
+            "Les boutons radio  "
+        ],
+        "bonneReponse": "Les boutons radio  "
+    },
+    {
+        "libelle": "Quel pays a remport\u00e9 la coupe du monde de football en 2014 ? ",
+        "score": "5",
+        "type": "simple",
+        "reponsePossible": [
+            "Argentine",
+            "Bresil",
+            "Italie",
+            "Allemagne"
+        ],
+        "bonneReponse": "Allemagne"
+    },
+    {
+        "libelle": "Qui \u00e9tait le dieu de la guerre dans la mythologie grecque ?",
+        "score": "7",
+        "type": "simple",
+        "reponsePossible": [
+            "Apollon",
+            "Ades",
+            "Ar\u00e8s",
+            "Hem\u00e9s"
+        ],
+        "bonneReponse": "Ar\u00e8s"
+    },
+    {
+        "libelle": "Dans quelle ville italienne l\u2019action de la pi\u00e8ce de Shakespeare \u00ab Rom\u00e9o et Juliette \u00bb se situe-t-elle ?",
+        "score": "7",
+        "type": "simple",
+        "reponsePossible": [
+            "Milan",
+            "V\u00e9rone",
+            "Rome",
+            "Venise"
+        ],
+        "bonneReponse": "V\u00e9rone"
+    },
+    {
+        "libelle": "Qui a mis le premier le pied sur la Lune ?",
+        "score": "4",
+        "type": "text",
+        "reponsePossible": [
+            "Neil Armstrong"
+        ],
+        "bonneReponse": "neil armstrong"
+    },
+    {
+        "libelle": "Quelle est la capitale des Bermudes ?",
+        "score": "7",
+        "type": "text",
+        "reponsePossible": [
+            "Hamilton"
+        ],
+        "bonneReponse": "hamilton"
+    },
+    {
+        "libelle": "Quelle ville a construit le premier m\u00e9tro ?",
+        "score": "5",
+        "type": "text",
+        "reponsePossible": [
+            "Londres"
+        ],
+        "bonneReponse": "londres"
+    },
+    {
+        "libelle": "Quel est le th\u00e9or\u00e8me de Pythagore ?",
+        "score": "2",
+        "type": "simple",
+        "reponsePossible": [
+            "Si un triangle ABC est rectangle en C, alors : C\u00b2 = A\u00b2 + B\u00b2",
+            "Si un triangle ABC est rectangle en C, alors : AC\u00b2 = AB\u00b2 + BC\u00b2",
+            "Si un triangle ABC est rectangle en C, alors : AB\u00b2 = AC\u00b2 + BC\u00b2",
+            "Si un triangle ABC est rectangle en C, alors : C = A + B"
+        ],
+        "bonneReponse": "Si un triangle ABC est rectangle en C, alors : AB\u00b2 = AC\u00b2 + BC\u00b2"
+    },
+    {
+        "libelle": "Si un losange a un angle droit, alors c'est un... ?",
+        "score": "5",
+        "type": "text",
+        "reponsePossible": [
+            "carr\u00e9"
+        ],
+        "bonneReponse": "carr\u00e9"
+    },
+    {
+        "libelle": "Quel est le nom de l\u2019unit\u00e9 de r\u00e9sistance \u00e9lectrique ?",
+        "score": "2",
+        "type": "simple",
+        "reponsePossible": [
+            "Amp\u00e8re",
+            "Ohm",
+            "Watt",
+            "Volt"
+        ],
+        "bonneReponse": "Ohm"
+    },
+    {
+        "libelle": "Laquelle des m\u00e9moires suivantes est non volatile?",
+        "score": "4",
+        "type": "simple",
+        "reponsePossible": [
+            "SRAM",
+            "DRAM",
+            "ROM",
+            "Toutes les r\u00e9ponses sont vraies",
+            "Aucune de ces r\u00e9ponses n\u2019est vraie."
+        ],
+        "bonneReponse": "ROM"
+    },
+    {
+        "libelle": "Quel nom porte un terrain de tennis ?",
+        "score": "4",
+        "type": "simple",
+        "reponsePossible": [
+            "La surface.",
+            "La terre Battue.",
+            "Le court."
+        ],
+        "bonneReponse": "Le court."
+    },
+    {
+        "libelle": "Quel moteur de jeu est utilis\u00e9 pour le C# et le javascript ?",
+        "score": "4",
+        "type": "text",
+        "reponsePossible": [
+            "unity"
+        ],
+        "bonneReponse": "unity"
+    },
+    {
+        "libelle": "Quelle commande permet le d\u00e9placement sur le disque sous Linux ?",
+        "score": "2",
+        "type": "text",
+        "reponsePossible": [
+            "cd"
+        ],
+        "bonneReponse": "cd"
+    },
+    {
+        "libelle": "Quels sont les pays ayant remport\u00e9s la coupe d'Afrique ?",
+        "score": "5",
+        "type": "multiple",
+        "reponsePossible": [
+            "Algerie",
+            "S\u00e9n\u00e9gal",
+            "Zambie",
+            "Egypte",
+            "Malawi",
+            "Madagascar"
+        ],
+        "bonneReponse": [
+            "Algerie",
+            "Zambie",
+            "Egypte"
+        ]
+    },
+    {
+        "libelle": "Ceux qui n'ont pas eu de Ballon d'or ?",
+        "score": "4",
+        "type": "multiple",
+        "reponsePossible": [
+            "Ribery",
+            "Kaka",
+            "Buffon",
+            "Cannavaro",
+            "Modric",
+            "Sneijder"
+        ],
+        "bonneReponse": [
+            "Ribery",
+            "Buffon",
+            "Sneijder"
+        ]
+    },
+    {
+        "libelle": "Quel(s) club(s) Mesut \u00d6zil a-t-il parcouru toute sa carri\u00e8re ?",
+        "score": "5",
+        "type": "multiple",
+        "reponsePossible": [
+            "FC Schalke 04",
+            "Real Madrid Club de F\u00fatbol",
+            "Arsenal Football Club",
+            "FC Bayern",
+            "Werder Breme"
+        ],
+        "bonneReponse": [
+            "FC Schalke 04",
+            "Real Madrid Club de F\u00fatbol",
+            "Arsenal Football Club",
+            "Werder Breme"
+        ]
+    },
+    {
+        "libelle": "Les limitrophes su S\u00e9n\u00e9gal ?",
+        "score": "5",
+        "type": "multiple",
+        "reponsePossible": [
+            "Mali",
+            "Gambie",
+            "Sierra leone",
+            "Guin\u00e9e Conakry",
+            "C\u00f4te d'ivoire"
+        ],
+        "bonneReponse": [
+            "Mali",
+            "Guin\u00e9e Conakry"
+        ]
+    },
+    {
+        "libelle": "Robert T. Kiyosaki est auteur de ? ",
+        "score": "7",
+        "type": "multiple",
+        "reponsePossible": [
+            "Pere riche, pere pauvre",
+            "Comment se faire des amis",
+            "Quadrant du cashflow",
+            "Reflechissez et devenez riche"
+        ],
+        "bonneReponse": [
+            "Pere riche, pere pauvre",
+            "Quadrant du cashflow"
+        ]
+    },
+    {
+        "libelle": "Qui est l'auteur du celebre song 'Sorry the blame it on me'",
+        "score": "3",
+        "type": "text",
+        "reponsePossible": [
+            "Akon"
+        ],
+        "bonneReponse": "akon"
+    },
+    {
+        "libelle": "Quelle race d\u2019animal est un briard ? ",
+        "score": "5",
+        "type": "simple",
+        "reponsePossible": [
+            "Un canard",
+            "Un chat",
+            "Un chien",
+            "Un cheval"
+        ],
+        "bonneReponse": "Un chien"
+    },
+    {
+        "libelle": "Quels sont les mots mal orthographi\u00e9s ?",
+        "score": "5",
+        "type": "multiple",
+        "reponsePossible": [
+            "\u00e9perduement",
+            "Ing\u00e9nuement",
+            "Pr\u00e9tendument",
+            "D\u00e9nument"
+        ],
+        "bonneReponse": [
+            "\u00e9perduement",
+            "Ing\u00e9nuement",
+            "D\u00e9nument"
+        ]
+    },
+    {
+        "libelle": "Compl\u00e9tez la phrase correcte : \" Les pr\u00e9visions alarmistes des scientifiques ... exactes.\"",
+        "score": "3",
+        "type": "simple",
+        "reponsePossible": [
+            "Se sont av\u00e9r\u00e9es exactes.",
+            "Se sont r\u00e9v\u00e9l\u00e9es exactes."
+        ],
+        "bonneReponse": "Se sont r\u00e9v\u00e9l\u00e9es exactes."
+    },
+    {
+        "libelle": "Les pronoms personnels \"me\" et \"te\" peuvent-ils s'employer apr\u00e8s le verbe ?",
+        "score": "2",
+        "type": "simple",
+        "reponsePossible": [
+            "Oui.",
+            "Non."
+        ],
+        "bonneReponse": "Oui."
+    },
+    {
+        "libelle": "Quels sont les frameworks de javascript sur cette liste ?",
+        "score": "3",
+        "type": "multiple",
+        "reponsePossible": [
+            "React",
+            "Django",
+            "Bootstrap",
+            "Angular",
+            "Flask"
+        ],
+        "bonneReponse": [
+            "React",
+            "Angular"
+        ]
+    },
+    {
+        "libelle": "Quels sont les frameworks de java sur cette liste ?",
+        "score": "4",
+        "type": "multiple",
+        "reponsePossible": [
+            "Hibernate",
+            "Flask",
+            "Apache lucene",
+            "Apache Struts"
+        ],
+        "bonneReponse": [
+            "Hibernate",
+            "Apache lucene",
+            "Apache Struts"
+        ]
+    },
+    {
+        "libelle": "Quels sont les frameworks de python sur cette liste ?",
+        "score": "4",
+        "type": "multiple",
+        "reponsePossible": [
+            "Django",
+            "Angular",
+            "Pyramid",
+            "Pylons"
+        ],
+        "bonneReponse": [
+            "Django",
+            "Pyramid",
+            "Pylons"
+        ]
+    },
+    {
+        "libelle": "Quels sont les frameworks de PHP sur cette liste ?",
+        "score": "4",
+        "type": "multiple",
+        "reponsePossible": [
+            "Dojo",
+            "Yii",
+            "Qcodo"
+        ],
+        "bonneReponse": [
+            "Yii",
+            "Qcodo"
+        ]
+    }
+]

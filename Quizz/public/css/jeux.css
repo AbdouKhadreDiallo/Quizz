@@ -1,0 +1,115 @@
+.prev {
+    display: <?=$prev ?>;
+    align-self: flex-start;
+    color: white;
+    background-color: #3addd6;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-left: 5px;
+    margin-bottom: 5px
+}
+
+.next {
+    display: <?=$next ?>;
+    float: right;
+    margin-right: 10px;
+    color: white;
+    background-color: #3addd6;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-bottom: 5px
+    /* position: relative;
+        top: 10px;
+        left: 60%; */
+}
+
+.end {
+    display: <?=$end ?>;
+    margin-right: 10px;
+    float: right;
+    color: white;
+    background-color: #3addd6;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-bottom: 5px
+}
+
+table {
+    border-radius: 1em;
+    width: 100%;
+    font-size: 1em
+}
+
+.question-show {
+    display: inline-block;
+}
+
+th,
+td {
+    color: grey;
+    padding: .25em 1em;
+    text-align: left
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.texte {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 60%;
+    border: none;
+    box-shadow: 1px 1px 1px #3addd6;
+    font-size: 1.2em;
+    background-color: #dddddd;
+    /* border-radius: 10px; */
+}
+
+.multiple,
+.simple {
+    position: relative;
+    top: 10px;
+    margin-left: 40px;
+}
+
+input[type="radio"] {
+    height: 20px;
+    width: 20px;
+    border: none;
+    /* box-shadow: 1px 1px 1px #3addd6; */
+    font-size: 1.1em;
+    /* border-radius: 10px; */
+}
+
+input[type="checkbox"] {
+    height: 25px;
+    width: 25px;
+    border: none;
+    color: white;
+    box-shadow: 0px 0px 0px 1px #3addd6;
+    /* box-shadow: 1px 1px 1px #3addd6; */
+    font-size: 1.2em;
+    /* border-radius: 10px; */
+}
+
+#rad,
+#check {
+    position: relative;
+    top: -5px;
+    left: 5px;
+}
